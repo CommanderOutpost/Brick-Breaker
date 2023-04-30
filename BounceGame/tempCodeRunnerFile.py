@@ -1,2 +1,0 @@
-
-            ball.speed = 5
