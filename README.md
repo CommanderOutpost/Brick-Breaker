@@ -22,7 +22,7 @@ git clone https://github.com/CommanderOutpost/Brick-Breaker.git
 4. Place required assets (images, fonts, and sounds) in the specified file paths.
 
 ## Usage
-To play the game, simply run the brick_breaker.py script in a Python environment:
+To play the game, simply run the brick_breaker.py script in the BrickBreaker directory:
 ```
 python brick_breaker.py
 ```
