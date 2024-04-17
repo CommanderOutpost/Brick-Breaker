@@ -1,4 +1,4 @@
-# Brick Breaker
+Hello
 A classic brick-breaking game built with Pygame. Control the paddle to bounce the ball and destroy bricks, clear all the bricks to progress to the next level. The game features different difficulty settings, customizable controls, power-ups, and game over screen.
 
 
